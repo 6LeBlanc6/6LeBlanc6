@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @6LeBlanc6
+- 👋 Hi, I’m Martin Marinov - LeBlanc
 - 👀 I’m interested in changing the world and make it a better place than I found it.
 - 🌱 I’m currently learning linux administration, cybersecurity and erlang functional language.
 - 💞️ I’m looking to collaborate on everything Cardano, BlockChain, web3 and metaverse.
